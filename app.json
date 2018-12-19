@@ -1,0 +1,17 @@
+{
+  "pages": [
+    "pages/start/start",
+    "pages/client/client",
+    "pages/server/server",
+    "pages/wifi_station/tianqi/tianqi"
+    
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "white",
+    "navigationBarTitleText": "送货小火车",
+    "navigationBarTextStyle": "black",
+    "enablePullDownRefresh": true
+  },
+  "debug": true
+}
